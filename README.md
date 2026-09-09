@@ -36,11 +36,11 @@ First assignment — the basics of Git: repositories, commits, and workflow.
 | Category | Technologies |
 |---|---|
 | **Backend** | Java, Spring Boot, REST APIs |
-| **Databases** | PostgreSQL, MySQL, H2 |
-| **Persistence** | Spring Data JPA, Hibernate |
-| **Frontend** | React, Vue, JavaScript, HTML, CSS, Tailwind, Vite, Thymeleaf |
+| **Databases** | PostgreSQL, MySQL, SQL, H2 |
+| **Persistence** | Spring Data JPA, JDBC, Hibernate |
+| **Testing & QA** | JUnit, Mockito, Vitest, TDD |
 | **Desktop** | JavaFX |
 | **Security & Auth** | Spring Security, JWT, OAuth2, RBAC |
-| **Testing & QA** | JUnit, Mockito, Vitest, TDD |
-| **DevOps & Tools** | Git, GitHub, GitHub Actions (CI/CD), Docker, Maven |
+| **Frontend** | React, Vue, JavaScript, HTML, CSS, Tailwind, Vue, Thymeleaf |
+| **DevOps & Tools** | Git, GitHub, GitHub Actions (CI/CD), Docker, Maven, Vite |
 | **Other** | Microservices, AWS S3, JSON, XML |
