@@ -1,8 +1,19 @@
 # Hi, I'm Dennis!
 
-Currently studying Java.
+I'm a software development Student with a focus on Java, Spring Boot & a bit of fullstack web development.
+
+Currently: Studying att IT-Högskolan and looking for a 6-month full-time internship (Nov – May).
 
 ## School projects
+
+### [BrainDead – Web-based Satire Zombie Survival Quiz Game](https://github.com/ithsjava25/project-backend-team-my-codebase-brings-all-the-boys](https://github.com/TatjanaTrajkovic/BrainDead)
+Group project: A choice-driven zombie survival game set in a zombie-infested Gothenburg.
+Game loop of scenario → question → answer → feedback where every choice affects your brain capacity (health multiplier),
+with resumable game sessions (create/resume/pause), anonymous guest players via hashed cookie tokens and a simple login system.
+Backend: Node.js, Express and MySQL (mysql2) in a layered architecture (routes → controllers → services),
+transactions with row locking for answer submission, CI (lint, prettier, unit tests) on GitHub Actions.
+Frontend: Vue 3, Vite, vue-router, composables.
+Art assets: AI-generated, then hands-on cleanup and adjusting to get the right feel – letting us focus on code and game logic.
 
 ### [School Portal – Case Management System](https://github.com/ithsjava25/project-backend-team-my-codebase-brings-all-the-boys)
 Group project: A security-focused case management system for school environments.\
@@ -35,7 +46,7 @@ First assignment — the basics of Git: repositories, commits, and workflow.
 ## Tech stack used so far
 | Category | Technologies |
 |---|---|
-| **Backend** | Java, Spring Boot, REST APIs |
+| **Backend** | Java, Spring Boot, REST APIs, Node.js (express) |
 | **Databases** | PostgreSQL, MySQL, SQL, H2 |
 | **Persistence** | Spring Data JPA, JDBC, Hibernate |
 | **Testing & QA** | JUnit, Mockito, Vitest, TDD |
