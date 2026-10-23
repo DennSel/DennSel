@@ -6,7 +6,7 @@ Currently: Studying att IT-Högskolan and looking for a 6-month full-time intern
 
 ## School projects
 
-### [BrainDead – Web-based Satire Zombie Survival Quiz Game](https://github.com/ithsjava25/project-backend-team-my-codebase-brings-all-the-boys](https://github.com/TatjanaTrajkovic/BrainDead)
+### [BrainDead – Web-based Satire Zombie Survival Quiz Game](https://github.com/TatjanaTrajkovic/BrainDead)
 Group project: A choice-driven zombie survival game set in a zombie-infested Gothenburg.
 Game loop of scenario → question → answer → feedback where every choice affects your brain capacity (health multiplier),
 with resumable game sessions (create/resume/pause), anonymous guest players via hashed cookie tokens and a simple login system.
