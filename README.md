@@ -43,7 +43,18 @@ An exercise in test-driven development (TDD) and mocking with JUnit and Mockito.
 ### [Laboration-1-Git](https://github.com/DennSel/Laboration-1-Git)
 First assignment — the basics of Git: repositories, commits, and workflow.
 
-## Tech stack used so far
+### [KandSys – Multi-Tenant Mini-ATS (Technical AI assignment)](https://github.com/DennSel/mini-ats)
+:A multi-tenant Applicant Tracking System (ATS) for managing recruitment pipelines and candidate pools. 
+Built entirely through agentic AI pair programming as a test to evaluate autonomous AI development, architectural discipline, and strict security invariants.
+
+- **Features:** Drag-and-drop Kanban board, candidate bank, job management, interview scheduling, and secure CV uploads via private buckets and signed URLs.
+- **In-Memory Demo Mode:** Fully isolated sandbox toggleable by admins, letting visitors test the entire ATS without touching the database.
+- **Backend & Security:** Supabase (PostgreSQL) with strict Row-Level Security (RLS) enforcing tenant isolation on all tables and storage.
+Verified with 17 pgTAP database regression tests.
+- **Frontend & Stack:** React 19, TanStack Start, TanStack Router, TanStack Query, and Tailwind CSS.
+- **Quality & CI:** 52 Vitest unit tests, ESLint, Prettier, and automated GitHub Actions CI.
+
+## Tech stack dabbled in so far
 | Category | Technologies |
 |---|---|
 | **Backend** | Java, Spring Boot, REST APIs, Node.js (express) |
@@ -52,6 +63,6 @@ First assignment — the basics of Git: repositories, commits, and workflow.
 | **Testing & QA** | JUnit, Mockito, Vitest, TDD |
 | **Desktop** | JavaFX |
 | **Security & Auth** | Spring Security, JWT, OAuth2, RBAC |
-| **Frontend** | React, Vue, JavaScript, HTML, CSS, Tailwind, Vue, Thymeleaf |
+| **Frontend** | React, Vue.js, JavaScript, HTML, CSS, Tailwind, Thymeleaf |
 | **DevOps & Tools** | Git, GitHub, GitHub Actions (CI/CD), Docker, Maven, Vite |
-| **Other** | Microservices, AWS S3, JSON, XML |
+| **Other** | Microservices, AWS S3, JSON, XML, Figma |
