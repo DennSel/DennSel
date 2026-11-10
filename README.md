@@ -44,7 +44,7 @@ An exercise in test-driven development (TDD) and mocking with JUnit and Mockito.
 First assignment — the basics of Git: repositories, commits, and workflow.
 
 ### [KandSys – Multi-Tenant Mini-ATS (Technical AI assignment)](https://github.com/DennSel/mini-ats)
-:A multi-tenant Applicant Tracking System (ATS) for managing recruitment pipelines and candidate pools. 
+A multi-tenant Applicant Tracking System (ATS) for managing recruitment pipelines and candidate pools. 
 Built entirely through agentic AI pair programming as a test to evaluate autonomous AI development, architectural discipline, and strict security invariants.
 
 - **Features:** Drag-and-drop Kanban board, candidate bank, job management, interview scheduling, and secure CV uploads via private buckets and signed URLs.
