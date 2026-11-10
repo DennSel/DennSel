@@ -15,6 +15,17 @@ transactions with row locking for answer submission, CI (lint, prettier, unit te
 Frontend: Vue 3, Vite, vue-router, composables.
 Art assets: AI-generated, then hands-on cleanup and adjusting to get the right feel – letting us focus on code and game logic.
 
+### [KandSys – Multi-Tenant Mini-ATS (Technical AI assignment)](https://github.com/DennSel/mini-ats)
+A multi-tenant Applicant Tracking System (ATS) for managing recruitment pipelines and candidate pools. 
+Built entirely through agentic AI pair programming as a test to evaluate autonomous AI development, architectural discipline, and strict security invariants.
+
+- **Features:** Drag-and-drop Kanban board, candidate bank, job management, interview scheduling, and secure CV uploads via private buckets and signed URLs.
+- **In-Memory Demo Mode:** Fully isolated sandbox toggleable by admins, letting visitors test the entire ATS without touching the database.
+- **Backend & Security:** Supabase (PostgreSQL) with strict Row-Level Security (RLS) enforcing tenant isolation on all tables and storage.
+Verified with 17 pgTAP database regression tests.
+- **Frontend & Stack:** React 19, TanStack Start, TanStack Router, TanStack Query, and Tailwind CSS.
+- **Quality & CI:** 52 Vitest unit tests, ESLint, Prettier, and automated GitHub Actions CI.
+
 ### [School Portal – Case Management System](https://github.com/ithsjava25/project-backend-team-my-codebase-brings-all-the-boys)
 Group project: A security-focused case management system for school environments.\
 Handles assignment workflows (create → turn in → grade), enrollment-based role access control (admin/mentor/teacher/student),\
@@ -42,17 +53,6 @@ An exercise in test-driven development (TDD) and mocking with JUnit and Mockito.
 
 ### [Laboration-1-Git](https://github.com/DennSel/Laboration-1-Git)
 First assignment — the basics of Git: repositories, commits, and workflow.
-
-### [KandSys – Multi-Tenant Mini-ATS (Technical AI assignment)](https://github.com/DennSel/mini-ats)
-A multi-tenant Applicant Tracking System (ATS) for managing recruitment pipelines and candidate pools. 
-Built entirely through agentic AI pair programming as a test to evaluate autonomous AI development, architectural discipline, and strict security invariants.
-
-- **Features:** Drag-and-drop Kanban board, candidate bank, job management, interview scheduling, and secure CV uploads via private buckets and signed URLs.
-- **In-Memory Demo Mode:** Fully isolated sandbox toggleable by admins, letting visitors test the entire ATS without touching the database.
-- **Backend & Security:** Supabase (PostgreSQL) with strict Row-Level Security (RLS) enforcing tenant isolation on all tables and storage.
-Verified with 17 pgTAP database regression tests.
-- **Frontend & Stack:** React 19, TanStack Start, TanStack Router, TanStack Query, and Tailwind CSS.
-- **Quality & CI:** 52 Vitest unit tests, ESLint, Prettier, and automated GitHub Actions CI.
 
 ## Tech stack dabbled in so far
 | Category | Technologies |
