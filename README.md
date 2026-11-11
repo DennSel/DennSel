@@ -4,7 +4,7 @@ I'm a software development Student with a focus on Java, Spring Boot & a bit of 
 
 Currently: Studying att IT-Högskolan and looking for a 6-month full-time internship (Nov – May).
 
-## School projects
+## Projects
 
 ### [BrainDead – Web-based Satire Zombie Survival Quiz Game](https://github.com/TatjanaTrajkovic/BrainDead)
 Group project: A choice-driven zombie survival game set in a zombie-infested Gothenburg.
